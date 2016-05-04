@@ -3,7 +3,7 @@
     <title>CISCO DPC2100 Modem Unlock Tool</title>
   </head>
   <body>
-    <form action="http://10.4.4.179/goform/_aslvl" method="post">
+    <form action="http://writ this ip adress/goform/_aslvl" method="post">
       <input type="hidden" name="SAUsername" value="admin" />
       <input type="hidden" name="SAPassword" value="W2402" />
       <table border="1">
